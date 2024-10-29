@@ -3,3 +3,4 @@ WPU RESOLUSI
 - Belajar
 - Nonton yutub
 - Cara pakai github
+- jadi master website
