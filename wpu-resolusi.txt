@@ -1,6 +1,5 @@
 WPU RESOLUSI
 - Buat web
 - Belajar
-- Nonton yutub
 - Cara pakai github
 - jadi master website
