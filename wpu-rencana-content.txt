@@ -3,6 +3,7 @@ Rencana konten
 - Javascript
  ES6
  Framework javascript
+- stuktur data dasar
 - PHP frameworks
 - Interview
 - Vlogs
