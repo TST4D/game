@@ -8,6 +8,7 @@ Rencana konten
 - stuktur data dasar
  laravel
 - PHP frameworks
+ - laravel
 - Interview
 - Vlogs
 - python
